@@ -1,11 +1,8 @@
-
 package Prelim;
-
 
 public class Lab_act1_Arithmetics {
   
-    
-    public static void main(String[] args){
+      public static void main(String[] args){
        
        int k= 10;
        int l= 4;
